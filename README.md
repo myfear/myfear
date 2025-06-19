@@ -6,10 +6,11 @@
 - 📫 Connect with me on [https://bsky.app/profile/myfear.com](https://bsky.app/profile/myfear.com)
 - 📫 Other people prefer [https://www.linkedin.com/in/markuseisele/?locale=en_US](https://www.linkedin.com/in/markuseisele/?locale=en_US)
 
-I write a lot of things. Some older stuff is on my [blog.eisele.net](https://blog.eisele.net) 
-Some newer stuff on my pet project [myfear.substack.com](myfear.substack.com) 
-But you can also find more from me on [Red Hat Developers](https://developers.redhat.com/authors/markus-eisele)
-or even on [https://www.redhat.com/en/authors/markus-eisele](https://www.redhat.com/en/authors/markus-eisele)
+I write a lot of things. Some older stuff is on my [blog.eisele.net](https://blog.eisele.net).
+
+Some newer stuff on my pet project [myfear.substack.com](myfear.substack.com).
+
+But you can also find more from me on [Red Hat Developers](https://developers.redhat.com/authors/markus-eisele) or even on [https://www.redhat.com/en/authors/markus-eisele](https://www.redhat.com/en/authors/markus-eisele)
 
 <!---
 myfear/myfear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
