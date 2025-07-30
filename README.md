@@ -8,7 +8,7 @@
 
 I write a lot of things. Some older stuff is on my [blog.eisele.net](https://blog.eisele.net).
 
-Some newer stuff on my pet project [myfear.substack.com](myfear.substack.com).
+New and up to date articles and hands-on tutorials: [myfear.substack.com](https://www.the-main-thread.com/)
 
 But you can also find more from me on [Red Hat Developers](https://developers.redhat.com/authors/markus-eisele) or even on [https://www.redhat.com/en/authors/markus-eisele](https://www.redhat.com/en/authors/markus-eisele)
 Just recently I also got an author profile on [IBM Developer](https://developer.ibm.com/author/markus.eisele/).
