@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @myfear
-- 👀 I’m interested in a lot of things but mainly Java, Quarkus and Java Enterprise related stuff.
-- 🌱 I’m currently learning how to keep x balls in the air at the same time.
-- 📫 Find me on [twitter/@myfear](https://twitter.com/@myfear)
-- 📫 Reach me via [mastodon.online/@myfear](https://mastodon.online/@myfear)
-- 📫 Connect with me on [https://bsky.app/profile/myfear.com](https://bsky.app/profile/myfear.com)
-- 📫 Other people prefer [https://www.linkedin.com/in/markuseisele/?locale=en_US](https://www.linkedin.com/in/markuseisele/?locale=en_US)
+# 👋 Hey there, I’m Markus (aka [@myfear](https://twitter.com/myfear))
 
-I write a lot of things. Some older stuff is on my [blog.eisele.net](https://blog.eisele.net).
+💻 **Java Champion | Developer Advocate | Author**
+I’m passionate about Java, Quarkus, and everything around enterprise-grade, cloud-native development. I love sharing knowledge through talks, articles, and hands-on tutorials that help developers build better software.
 
-New and up to date articles and hands-on tutorials: [myfear.substack.com](https://www.the-main-thread.com/)
+### 🚀 What I’m up to
 
-But you can also find more from me on [Red Hat Developers](https://developers.redhat.com/authors/markus-eisele) or even on [https://www.redhat.com/en/authors/markus-eisele](https://www.redhat.com/en/authors/markus-eisele)
-Just recently I also got an author profile on [IBM Developer](https://developer.ibm.com/author/markus.eisele/).
+* ✍️ Writing deep dives and hands-on tutorials on **[The Main Thread](https://www.the-main-thread.com)**
+* 🏗 Exploring **Java + Quarkus + AI** to build real-world, AI-infused enterprise applications
+* 🎤 Speaking at conferences about Java, cloud-native, and open-source innovation
+* 📚 Co-author of *[Applied AI for Developers](https://www.oreilly.com/library/view/applied-ai-for/9781098174491/)* (O’Reilly)
+
+### 🌍 Connect with me
+
+* 🐦 Twitter: [@myfear](https://twitter.com/myfear)
+* 🐘 Mastodon: [mastodon.online/@myfear](https://mastodon.online/@myfear)
+* 🦋 Bluesky: [bsky.app/profile/myfear.com](https://bsky.app/profile/myfear.com)
+* 💼 LinkedIn: [linkedin.com/in/markuseisele](https://www.linkedin.com/in/markuseisele/?locale=en_US)
+
+### 📖 Where to find my work
+
+* 📰 Latest tutorials: [**https://www.the-main-thread.com**](https://www.the-main-thread.com)
+* 📜 Older blog posts: [blog.eisele.net](https://blog.eisele.net)
+* 🧑‍💻 Articles on [Red Hat Developers](https://developers.redhat.com/authors/markus-eisele)
+* 📝 Author page on [Red Hat](https://www.redhat.com/en/authors/markus-eisele)
+* 🛠 New profile on [IBM Developer](https://developer.ibm.com/author/markus.eisele/)
+
+💡 *Always learning, always sharing.*
+Let’s build something great together!
